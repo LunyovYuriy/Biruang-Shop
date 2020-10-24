@@ -1,2 +1,2 @@
 # Biruang-Shop
-[Demo](https://shikigeru.github.io/Biruang-Shop/)
+[Demo](https://lunyovyuriy.github.io/Biruang-Shop/)
